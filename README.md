@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I’m Bijisha Shrestha, an Account Manager with a 
 Data Analysis & Visualization: Proficient in SQL, Python, Tableau, R, and Power BI.
 Business Development: Skilled in order management, client onboarding, and strategic planning.
 Machine Learning: Implemented techniques like Decision Trees, K-Means, and Regression.
+
 💼 Notable Projects:
 Airbnb NYC Analysis: Visualized trends using Tableau.
 IMDB Data Analysis: Conducted analytical tasks with AWS tools.
