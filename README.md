@@ -1,7 +1,7 @@
 - 👋 Bijisha Shrestha
 Master's Student in Business Analytics | Customer Account Analyst
 
-Welcome to my GitHub profile! I’m Bijisha Shrestha, an Customer Account Analyst with a background in Business Analytics, currently pursuing my Master’s at the Zicklin School of Business. My expertise lies in client relationship management, data analysis, and business process optimization. I bring over a year of experience managing 150+ clients in the wholesale jewelry industry, where I use data-driven insights to enhance client satisfaction and streamline operations.
+Welcome to my GitHub profile! I’m Bijisha Shrestha, a Customer Account Analyst with a background in Business Analytics, currently pursuing my Master’s at the Zicklin School of Business. My expertise lies in client relationship management, data analysis, and business process optimization. I bring over a year of experience managing 150+ clients in the wholesale jewelry industry, where I use data-driven insights to enhance client satisfaction and streamline operations.
 
 🔧 Skills and Interests:
 Data Analysis & Visualization: Proficient in SQL, Python, Tableau, R, and Power BI.
